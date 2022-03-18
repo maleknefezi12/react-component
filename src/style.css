@@ -1,0 +1,28 @@
+.photoprofil{
+        height: 300px;
+        border-radius: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.fullname{
+        text-decoration: overline underline;
+        border:6px solid;
+        margin: auto;
+        width: 10%;
+        padding: 10px;
+        background-color: black;
+        color: rgb(80, 197, 191);
+}
+.Adress{
+
+        text-decoration: overline underline;
+        border:10px solid;
+        margin: auto;
+        width: 20%;
+        padding: 20px;
+        background-color: black;
+        color: rgb(80, 197, 191);
+
+}
